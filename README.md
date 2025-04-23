@@ -1,4 +1,4 @@
-# Things Protocol Website
+# MM Intelligence Website (made by Things Protocol)
 
 A static website for Things Protocol with beautiful animated orb background, built with Next.js and deployed to GitHub Pages.
 

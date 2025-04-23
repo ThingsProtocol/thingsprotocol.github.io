@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "build-docs": "next build --no-lint && rm -rf docs && cp -r out docs",
     "start": "next start",
     "lint": "next lint"
   },
