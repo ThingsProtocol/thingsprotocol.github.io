@@ -15,7 +15,8 @@
 
 # next.js
 /.next/
-/out/
+# Allowing out directory for GitHub Pages
+# /out/
 
 # production
 /build
